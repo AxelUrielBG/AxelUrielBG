@@ -18,7 +18,7 @@ Intereses:
 | 14:00 | Gestión de Proyectos de Software    | Gestión de Proyectos de Software    | Gestión de Proyectos de Software    | Gestión de Proyectos de Software    | Gestión de Proyectos de Software            |
 | 15:00 |                                     |                                     |                                     |                                     | Gestión de Proyectos de Software            |
 | 16:00 | Taller de Investigación II          | Taller de Investigación II          | Taller de Investigación II          | Taller de Investigación II          |                                             |
-| 17:00 | Sistemas Programablee               | Sistemas Programablee               | Sistemas Programablee               | Sistemas Programablee               |                                             |
+| 17:00 | Sistemas Programables               | Sistemas Programables               | Sistemas Programables               | Sistemas Programables               |                                             |
 | 18:00 | Programación WEB                    | Programación WEB                    | Programación WEB                    | Programación WEB                    | Programación WEB                    |
 | 19:00 | Administración de Redes             | Administración de Redes             | Administración de Redes             | Administración de Redes             |  
                                     |
