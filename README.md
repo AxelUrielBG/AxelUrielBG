@@ -7,15 +7,18 @@
 
 Intereses:
 
-- 🔭 Me gusta aprender cosas nuevas
-- 🌱 Me gusta ser creativo
+- 🔭 Me gusta aprender cosas nuevas en general.
+- 🌱 Soy técnico en Informatica y me gusta la programación.
+- 🔭 En mis ratos de aburrimiento me gusta hacer origami 3D.
+- 🌱 Soy estudiante del Instituto Tecnológico de Tijuana.
 
 | hora  | Lunes                               | Martes                              | Miercoles                           | Jueves                              | Viernes                             |
 |-------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
-| 13:00 | Taller de Investigación 1           | Taller de Investigación 1           | Taller de Investigación 1           | Taller de Investigación 1           |                                     |
-| 14:00 | Lenguaje de interfaz                | Lenguaje de interfaz                | Lenguaje de interfaz                | Lenguaje de interfaz                |                                     |
-| 15:00 | Taller de Sistemas Operativos       | Taller de Sistemas Operativos       | Taller de Sistemas Operativos       | Taller de Sistemas Operativos       |                                     |
-| 16:00 | Lenguajes y autómatas 2             | Lenguajes y autómatas 2             | Lenguajes y autómatas 2             | Lenguajes y autómatas 2             | Lenguajes y autómatas 2             |
-| 17:00 | Conmutación y Enrutamiento de Redes | Conmutación y Enrutamiento de Redes | Conmutación y Enrutamiento de Redes | Conmutación y Enrutamiento de Redes | Conmutación y Enrutamiento de Redes |
-| 18:00 | Arquitectura de Computadoras        | Arquitectura de Computadores        | Arquitectura de Computadores        | Arquitectura de Computadores        | Arquitectura de Computadores        |
-| 19:00 | Programación Lógica y Funcional     | Programación Lógica y Funcional     | Programación Lógica y Funcional     | Programación Lógica y Funcional     |                                     |
+| 13:00 | Admnistración de Base de Datos      | Admnistración de Base de Datos      | Admnistración de Base de Datos      | Admnistración de Base de Datos      | Admnistración de Base de Datos      |
+| 14:00 | Gestión de Proyectos de Software    | Gestión de Proyectos de Software    | Gestión de Proyectos de Software    | Gestión de Proyectos de Software    | Gestión de Proyectos de Software            |
+| 15:00 |                                     |                                     |                                     |                                     | Gestión de Proyectos de Software            |
+| 16:00 | Taller de Investigación II          | Taller de Investigación II          | Taller de Investigación II          | Taller de Investigación II          |                                             |
+| 17:00 | Sistemas Programablee               | Sistemas Programablee               | Sistemas Programablee               | Sistemas Programablee               |                                             |
+| 18:00 | Programación WEB                    | Programación WEB                    | Programación WEB                    | Programación WEB                    | Programación WEB                    |
+| 19:00 | Administración de Redes             | Administración de Redes             | Administración de Redes             | Administración de Redes             |  
+                                    |
