@@ -14,11 +14,9 @@ Intereses:
 
 | hora  | Lunes                               | Martes                              | Miercoles                           | Jueves                              | Viernes                             |
 |-------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
-| 13:00 | Admnistración de Base de Datos      | Admnistración de Base de Datos      | Admnistración de Base de Datos      | Admnistración de Base de Datos      | Admnistración de Base de Datos      |
-| 14:00 | Gestión de Proyectos de Software    | Gestión de Proyectos de Software    | Gestión de Proyectos de Software    | Gestión de Proyectos de Software    | Gestión de Proyectos de Software            |
-| 15:00 |                                     |                                     |                                     |                                     | Gestión de Proyectos de Software            |
-| 16:00 | Taller de Investigación II          | Taller de Investigación II          | Taller de Investigación II          | Taller de Investigación II          |                                             |
-| 17:00 | Sistemas Programables               | Sistemas Programables               | Sistemas Programables               | Sistemas Programables               |                                             |
-| 18:00 | Programación WEB                    | Programación WEB                    | Programación WEB                    | Programación WEB                    | Programación WEB                    |
-| 19:00 | Administración de Redes             | Administración de Redes             | Administración de Redes             | Administración de Redes             |  
-                                    |
+| 14:00 | Analisis Avanzado de Desarrollo de Software    | Analisis Avanzado de Desarrollo de Software    | Analisis Avanzado de Desarrollo de Software    | Analisis Avanzado de Desarrollo de Software    | Analisis Avanzado de Desarrollo de Software            |
+| 15:00 | Temas Avanzados de Desarrollo de Software      | Temas Avanzados de Desarrollo de Software      | Temas Avanzados de Desarrollo de Software      | Temas Avanzados de Desarrollo de Software   | Temas Avanzados de Desarrollo de Software              |
+| 16:00 | Innovación Tecnologica                         | Innovación Tecnologica                         | Innovación Tecnologica                         | Innovación Tecnologica                           | Innovación Tecnologica                                 | 
+| 17:00 | Patrones de Diseño de Software                 | Patrones de Diseño de Software                 | Patrones de Diseño de Software                 | Patrones de Diseño de Software                    | Patrones de Diseño de Software                         |
+| 18:00 | Programación WEB                               | Programación WEB                               | Programación WEB                               | Programación WEB                                   | Programación WEB                                       |
+| 19:00 | Diseño de Interfaz de Usuario                  | Diseño de Interfaz de Usuario                  | Diseño de Interfaz de Usuario                  | Diseño de Interfaz de Usuario                   | Diseño de Interfaz de Usuario                          |
